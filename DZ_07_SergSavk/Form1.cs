@@ -18,6 +18,8 @@ namespace DZ_07_SergSavk
         public string last_Move = "0";
 
 
+
+
         public void Win()
         {
             if (int.Parse(lblNumber.Text) == value)
